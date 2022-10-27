@@ -7,7 +7,7 @@
 
     include_once('_cabecalho.php');
 
-    echo '<p>teste de fontawesome <span class="fa fa-times"></span></p>';
+    echo '<h2 class="text-center">Olá ANTIRRANSOMWARE!</h2>"></span></p>';
 
     include_once('_rodape.php');
 
